@@ -1,0 +1,15 @@
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl-alumni/4RailsFundamentals/hello_world_rails/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/ShawsRP/.asdf/installs/ruby/2.5.0/bin/ruby -r ./siteconf20181117-99100-1q1ve6c.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl-alumni/4RailsFundamentals/hello_world_rails/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl-alumni/4RailsFundamentals/hello_world_rails/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl-alumni/4RailsFundamentals/hello_world_rails/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20181117-99100-31m7n2/bootsnap
