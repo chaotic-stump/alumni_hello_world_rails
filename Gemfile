@@ -37,7 +37,7 @@ gem 'listen'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
-  gem 'nokogiri', '~> 1.6', '>= 1.8.2'
+  gem 'nokogiri', '~> 1.11'
 end
 
 group :development do
